@@ -1,5 +1,5 @@
 <?php
-    $conexion= new mysql("localhost", "root", "", "Aeromexico");
+    $conexion= new mysqli("localhost", "root", "", "Aeromexico");
     if($conexion){
         echo "la gestion fue exitosa!";
 

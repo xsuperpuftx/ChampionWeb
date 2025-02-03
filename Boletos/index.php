@@ -9,8 +9,8 @@
 <body>
     <h1>VENTA DE BOLETOS</h1>
     <form class="formulario" action="guardar.php" method="POST">
-    <label for="cliente">Cliente</label>
-    <input type="text" id="cliente" name="cliente" maxlength="40" required> <br><br>
+    <label for="nombre">Nombre</label>
+    <input type="text" id="nombre" name="nombre" maxlength="40" required> <br><br>
 
     <label for="boleto">Boleto</label>
     <input type="text" id="boleto" name="boleto" maxlength="4" required> <br><br>
