@@ -1,0 +1,55 @@
+[
+    {
+      "name": "Burger",
+      "status": "$50.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/burger.png"
+    },
+
+    {
+        "name": "Burrito",
+        "status": "$15.00",
+        "image": "http://sirainventario.atwebpages.com/imagenes/burrito.png"
+    },
+
+    {
+      "name": "Fish",
+      "status": "$35.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/fish.png"
+    },
+      
+    {
+      "name": "French Fries",
+      "status": "$10.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/fries.png"
+    },
+
+    {
+      "name": "Hot Pot",
+      "status": "$25.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/hot-pot.png"
+    },
+
+    {
+      "name": "Kebab",
+      "status": "$20.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/kebab.png"
+    },
+
+    {
+      "name": "Noodles",
+      "status": "$10.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/noodles.png"
+    },
+
+    {
+      "name": "Salad",
+      "status": "$8.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/salad.png"
+    },
+
+    {
+      "name": "Soup",
+      "status": "$4.00",
+      "image": "http://sirainventario.atwebpages.com/imagenes/soup.png"
+    }                   
+]
